@@ -6,3 +6,13 @@ Features :
 Displays available parking slots on an LCD display.
 Utilizes servo motor to control the gate barrier.
 Sensors detect presence of vehicles for accurate slot availability.
+
+Hardware Requirements :
+Arduino Nano
+LCD Display
+Servo Motor
+Sensors (e.g., ultrasonic sensors)
+Jumper wires
+Breadboard
+Power supply
+
